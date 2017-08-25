@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-ldpi/rec.png",
+        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/drawable-ldpi/rec.png"
+    }
+]

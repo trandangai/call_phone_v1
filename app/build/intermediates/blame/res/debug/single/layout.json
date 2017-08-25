@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/tab_indicator.xml",
+        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/layout/tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/preferences.xml",
+        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/layout/preferences.xml"
+    },
+    {
+        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/player.xml",
+        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/layout/player.xml"
+    },
+    {
+        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/layout/call_log.xml",
+        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/layout/call_log.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a5851c277dbed93a5b435684ef22e9514715ad4a">
+        <dex dex="/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a4411d48ac8bd9a541ad8d3af843944b11fa1ed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8310dec3804608bbad31825af58f1d4ed0c70f12">
+        <dex dex="/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29eb340f4fb2559808c0dd9bf88110b1fe293257/classes.dex" />
+    </item>
+
+</items>
