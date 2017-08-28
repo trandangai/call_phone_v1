@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,128 @@
                     "endOffset": 191
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/arrays.xml",
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endLine": 11,
+                    "endColumn": 17,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endLine": 17,
+                    "endColumn": 17,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 17,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 23,
+                    "endColumn": 17,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 251,
+                        "endLine": 14,
+                        "endColumn": 17,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 49,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 60,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endColumn": 60,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 72,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 17,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -33,7 +154,7 @@
                     "endOffset": 312
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/arrays.xml",
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -54,7 +175,7 @@
                     "endOffset": 488
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/arrays.xml",
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -75,7 +196,7 @@
                     "endOffset": 628
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/arrays.xml",
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\arrays.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 2,
@@ -95,7 +216,7 @@
                     "endOffset": 678
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -114,7 +235,7 @@
                     "endOffset": 739
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -133,7 +254,7 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -152,7 +273,7 @@
                     "endOffset": 873
                 },
                 "from": {
-                    "file": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

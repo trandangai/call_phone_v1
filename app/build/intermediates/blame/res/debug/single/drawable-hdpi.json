@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/rec.png",
-        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/drawable-hdpi/rec.png"
+        "merged": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rec.png",
+        "source": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\drawable-hdpi\\rec.png"
     },
     {
-        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
-        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/drawable-hdpi/icon.png"
+        "merged": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rec.png",
+        "source": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\drawable-hdpi\\rec.png"
     }
 ]

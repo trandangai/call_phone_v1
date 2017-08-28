@@ -1,7 +1,4 @@
-#Fri Aug 25 12:29:47 ICT 2017
-base.0=/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a4411d48ac8bd9a541ad8d3af843944b11fa1ed6
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29eb340f4fb2559808c0dd9bf88110b1fe293257/classes.dex
-base.1=/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29eb340f4fb2559808c0dd9bf88110b1fe293257
-file.0=/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a4411d48ac8bd9a541ad8d3af843944b11fa1ed6/classes.dex
+#Mon Aug 28 07:04:21 ICT 2017
+base.0=C\:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

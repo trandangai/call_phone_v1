@@ -11,7 +11,13 @@ public final class R {
     public static final class array {
         public static final int audio_format_options=0x7f050000;
         public static final int audio_format_values=0x7f050001;
+        /** <item>VOICE_UPLINK</item>
+<item>VOICE_DOWNLINK</item>
+         */
         public static final int audio_source_options=0x7f050002;
+        /** <item>2</item>
+<item>3</item>
+         */
         public static final int audio_source_values=0x7f050003;
     }
     public static final class attr {

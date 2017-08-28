@@ -14,7 +14,7 @@
    android:entries="@array/audio_source_options"
    android:entryValues="@array/audio_source_values"
    android:dialogTitle="Audio source"
-   android:defaultValue="1"
+   android:defaultValue="4"
   />
   <ListPreference
     android:key="PREF_AUDIO_FORMAT"

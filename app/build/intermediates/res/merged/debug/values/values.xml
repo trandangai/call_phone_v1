@@ -13,14 +13,14 @@
     <string-array name="audio_source_options">
     <item>MIC</item>
     <item>VOICE_CALL</item>
-    <item>VOICE_UPLINK</item>
-    <item>VOICE_DOWNLINK</item>
+    <!--<item>VOICE_UPLINK</item>-->
+    <!--<item>VOICE_DOWNLINK</item>-->
   </string-array>
     <string-array name="audio_source_values">
     <item>1</item>
     <item>4</item>
-    <item>2</item>
-    <item>3</item>
+    <!--<item>2</item>-->
+    <!--<item>3</item>-->
   </string-array>
     <string name="app_name">CallRecorder</string>
     <string name="audio_format_prompt">Audio format</string>

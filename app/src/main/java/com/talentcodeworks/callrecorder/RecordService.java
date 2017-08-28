@@ -143,6 +143,7 @@ public class RecordService
         int audiosource = Integer.parseInt(prefs.getString(Preferences.PREF_AUDIO_SOURCE, "1"));
         int audioformat = Integer.parseInt(prefs.getString(Preferences.PREF_AUDIO_FORMAT, "1"));
 
+
         recording = makeOutputFile(prefs);
         if (recording == null) {
             recorder = null;
@@ -155,10 +156,13 @@ public class RecordService
             // android.permission.RECORD_AUDIO permission for your app
             recorder.reset();
             recorder.setAudioSource(audiosource);
+//            recorder.setAudioSource(MediaRecorder.AudioSource.VOICE_CALL);
             Log.d("CallRecorder", "set audiosource " + audiosource);
             recorder.setOutputFormat(audioformat);
+//            recorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4);
             Log.d("CallRecorder", "set output " + audioformat);
-            recorder.setAudioEncoder(MediaRecorder.AudioEncoder.DEFAULT);
+//            recorder.setAudioEncoder(MediaRecorder.AudioEncoder.DEFAULT);
+            recorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
             Log.d("CallRecorder", "set encoder default");
             recorder.setOutputFile(recording.getAbsolutePath());
             Log.d("CallRecorder", "set file: " + recording);

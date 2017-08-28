@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/aitd/Documents/Android/callrecorder-master1/app/build/intermediates/res/merged/debug/xml/userpreferences.xml",
-        "source": "/Users/aitd/Documents/Android/callrecorder-master1/app/src/main/res/xml/userpreferences.xml"
+        "merged": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\userpreferences.xml",
+        "source": "C:\\Users\\aitd\\Documents\\Android\\callrecorder-master1\\app\\src\\main\\res\\xml\\userpreferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\userpreferences.xml",
+        "source": "C:\\Users\\11620\\Documents\\Freelancer\\Project\\Android\\callrecorder-master1\\app\\src\\main\\res\\xml\\userpreferences.xml"
     }
 ]

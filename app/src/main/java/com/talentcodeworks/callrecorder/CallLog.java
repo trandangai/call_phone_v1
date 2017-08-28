@@ -22,6 +22,7 @@ import android.widget.ListView;
 import android.widget.MediaController;
 import android.widget.ArrayAdapter;
 import android.widget.AdapterView;
+import android.widget.Toast;
 
 /*
   Ok, so, in theory this should work.  However, the behavior of the 
@@ -62,6 +63,13 @@ public class CallLog
     {
         fAdapter.clear();
         File dir = new File(RecordService.DEFAULT_STORAGE_LOCATION);
+        if (!dir.exists()) {
+            try {
+                dir.mkdirs();
+            } catch (Exception e) {
+                Log.e("CallRecorder", "RecordService::makeOutputFile unable to create directory " + dir + ": " + e);
+            }
+        }
         String[] dlist = dir.list();
 
         for (int i=0; i<dlist.length; i++) {
